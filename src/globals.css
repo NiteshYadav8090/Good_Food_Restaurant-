@@ -2152,6 +2152,17 @@ h1, h2, h3, h4, h5 {
   transform: scale(1.1);
 }
 
+/* ===== MOBILE BUTTON OVERFLOW FIX ===== */
+@media (max-width: 480px) {
+  .btn-ghost,
+  .btn-primary {
+    white-space: normal;
+    padding: 0.7rem 1.25rem;
+    font-size: 0.8rem;
+    max-width: 100%;
+  }
+}
+
 /* ===== CUSTOM CURSOR ===== */
 .custom-cursor,
 .custom-cursor-dot {
