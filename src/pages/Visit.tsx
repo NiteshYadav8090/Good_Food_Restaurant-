@@ -174,8 +174,8 @@ export default function VisitPage() {
             {[
               { src: "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=85&w=400&h=400&fit=crop", likes: "2,847" },
               { src: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=85&w=400&h=400&fit=crop", likes: "1,934" },
-              { src: "https://images.unsplash.com/photo-1517701160467-bf8f864831d5?q=85&w=400&h=400&fit=crop", likes: "3,201" },
-              { src: "https://images.unsplash.com/photo-1473093226775-af9f3f500096?q=85&w=400&h=400&fit=crop", likes: "1,712" },
+              { src: "https://i.pinimg.com/1200x/07/e3/cb/07e3cbb60afac722b6667badd5dc7537.jpg", likes: "3,201" },
+              { src: "https://i.pinimg.com/736x/5c/9c/91/5c9c917bd53ef7314fb94b3d5793786e.jpg", likes: "1,712" },
               { src: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=85&w=400&h=400&fit=crop", likes: "2,568" },
               { src: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=85&w=400&h=400&fit=crop", likes: "1,889" },
             ].map((item, i) => (

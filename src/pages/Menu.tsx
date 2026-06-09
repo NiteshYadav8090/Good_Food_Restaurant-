@@ -16,12 +16,12 @@ const vegItems = [
   { name: "Veg Manchurian", price: "₹170", img: "https://images.unsplash.com/photo-1585032226651-759b368d7246?q=85&w=400&h=300&fit=crop", emoji: "🥬" },
   { name: "Veg Spring Rolls", price: "₹150", img: "https://images.unsplash.com/photo-1600334089648-b0d9d3028eb2?q=85&w=400&h=300&fit=crop", emoji: "🥟" },
   { name: "Margherita Pizza", price: "₹299", img: "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=85&w=400&h=300&fit=crop", emoji: "🍕" },
-  { name: "White Sauce Pasta", price: "₹229", img: "https://images.unsplash.com/photo-1621658428135-43491f25368a?q=80&w=400&h=300&fit=crop", emoji: "🍝" },
+  { name: "White Sauce Pasta", price: "₹229", img: "https://images.unsplash.com/photo-1736952709740-559063347682?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHdoaXRlJTIwc2F1Y2UlMjBwYXN0YXxlbnwwfHwwfHx8MA%3D%3D", emoji: "🍝" },
   { name: "Veg Burger", price: "₹149", img: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=85&w=400&h=300&fit=crop", emoji: "🍔" },
-  { name: "Handi Paneer", price: "₹250", img: "https://images.unsplash.com/photo-1599487488170-d11e9c20a6e3?q=80&w=400&h=300&fit=crop", emoji: "🍛" },
+  { name: "Handi Paneer", price: "₹250", img: "https://i.pinimg.com/1200x/b5/64/31/b56431ce8b78fe08dadc92b69dac5077.jpg", emoji: "🍛" },
   { name: "Veg Chowmein", price: "₹140", img: "https://images.unsplash.com/photo-1555126634-323283e090fa?q=85&w=400&h=300&fit=crop", emoji: "🍜" },
   { name: "French Fries", price: "₹120", img: "https://images.unsplash.com/photo-1573080496219-bb080dd4f877?q=85&w=400&h=300&fit=crop", emoji: "🍟" },
-  { name: "Garlic Bread", price: "₹130", img: "https://images.unsplash.com/photo-1633933359648-9366df2e7bc4?q=80&w=400&h=300&fit=crop", emoji: "🍞" },
+  { name: "Garlic Bread", price: "₹130", img: "https://images.unsplash.com/photo-1573140401552-3fab0b24306f?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", emoji: "🍞" },
   { name: "Pav Bhaji", price: "₹160", img: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?q=85&w=400&h=300&fit=crop", emoji: "🥘" },
   { name: "Chole Bhature", price: "₹170", img: "https://images.unsplash.com/photo-1626132647523-66f5bf380027?q=85&w=400&h=300&fit=crop", emoji: "🧆" },
 ];
@@ -40,14 +40,14 @@ const nonVegItems = [
 ];
 
 const beverageItems = [
-  { name: "Cold Coffee", price: "₹120", img: "https://images.unsplash.com/photo-1517701160467-bf01cc61986d?q=80&w=400&h=300&fit=crop", emoji: "☕" },
+  { name: "Cold Coffee", price: "₹120", img: "https://images.unsplash.com/photo-1644131872721-36ab201b122e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D", emoji: "☕" },
   { name: "Chocolate Shake", price: "₹150", img: "https://images.unsplash.com/photo-1572490122747-3968b75cc699?q=85&w=400&h=300&fit=crop", emoji: "🍫" },
   { name: "Strawberry Mocktail", price: "₹140", img: "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?q=85&w=400&h=300&fit=crop", emoji: "🍓" },
   { name: "Blue Lagoon Mocktail", price: "₹140", img: "https://images.unsplash.com/photo-1536935338788-846bb9981813?q=85&w=400&h=300&fit=crop", emoji: "💙" },
-  { name: "Mango Shake", price: "₹150", img: "https://images.unsplash.com/photo-1590306161942-02c347575306?q=80&w=400&h=300&fit=crop", emoji: "🥭" },
+  { name: "Mango Shake", price: "₹150", img: "https://i.pinimg.com/736x/58/19/88/581988263f23d6e1ab4a0f4fe5e767f8.jpg", emoji: "🥭" },
   { name: "Oreo Shake", price: "₹160", img: "https://images.unsplash.com/photo-1579954115545-a95591f28bfc?q=85&w=400&h=300&fit=crop", emoji: "🍪" },
   { name: "Lemon Soda", price: "₹90", img: "https://images.unsplash.com/photo-1523362628745-0c100150b504?q=85&w=400&h=300&fit=crop", emoji: "🍋" },
-  { name: "Fresh Lime Water", price: "₹70", img: "https://images.unsplash.com/photo-1523315801375-9279dc6e81b6?q=80&w=400&h=300&fit=crop", emoji: "🥤" },
+  { name: "Fresh Lime Water", price: "₹70", img: "https://images.unsplash.com/photo-1651993737201-6a93d0b5c6a4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D", emoji: "🥤" },
   { name: "Virgin Mojito", price: "₹150", img: "https://images.unsplash.com/photo-1551751299-1b51cab2694c?q=85&w=400&h=300&fit=crop", emoji: "🌿" },
   { name: "Masala Chai", price: "₹50", img: "https://images.unsplash.com/photo-1561336313-0bd5e0b27ec8?q=85&w=400&h=300&fit=crop", emoji: "🫖" },
 ];

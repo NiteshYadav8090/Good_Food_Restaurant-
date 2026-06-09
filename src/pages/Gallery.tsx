@@ -20,14 +20,14 @@ const foodImages = [
     description: "Juicy, hand-crafted burgers with secret sauce",
   },
   {
-    src: "https://images.unsplash.com/photo-1473093226775-af9f3f500096?q=85&w=800&h=800&fit=crop",
+    src: "https://i.pinimg.com/1200x/ca/3a/af/ca3aafbcd6029d52bb3cbc6442f24434.jpg",
     title: "Indulgent Pastas",
     category: "Pasta",
     emoji: "🍝",
     description: "Creamy Italian pastas made fresh daily",
   },
   {
-    src: "https://images.unsplash.com/photo-1585937421612-70a008356163?q=85&w=800&h=800&fit=crop",
+    src: "https://i.pinimg.com/736x/af/c9/6b/afc96b705be359fec3286b1fbd0b3ce7.jpg",
     title: "North Indian Thali",
     category: "Indian",
     emoji: "🍛",
@@ -41,7 +41,7 @@ const foodImages = [
     description: "Wok-tossed Chinese classics you'll love",
   },
   {
-    src: "https://images.unsplash.com/photo-1517701160467-bf8f864831d5?q=85&w=800&h=800&fit=crop",
+    src: "https://i.pinimg.com/1200x/07/e3/cb/07e3cbb60afac722b6667badd5dc7537.jpg ",
     title: "Cold Coffee & Mocktails",
     category: "Beverages",
     emoji: "☕",
