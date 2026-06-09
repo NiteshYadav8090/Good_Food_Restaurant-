@@ -40,14 +40,14 @@ const nonVegItems = [
 ];
 
 const beverageItems = [
-  { name: "Cold Coffee", price: "₹120", img: "https://images.unsplash.com/photo-1644131872721-36ab201b122e?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8fHw%3D", emoji: "☕" },
+  { name: "Cold Coffee", price: "₹120", img: "https://images.unsplash.com/photo-1517701160237-775b8ba18342?q=80&w=400&h=300&fit=crop", emoji: "☕" },
   { name: "Chocolate Shake", price: "₹150", img: "https://images.unsplash.com/photo-1572490122747-3968b75cc699?q=85&w=400&h=300&fit=crop", emoji: "🍫" },
   { name: "Strawberry Mocktail", price: "₹140", img: "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?q=85&w=400&h=300&fit=crop", emoji: "🍓" },
   { name: "Blue Lagoon Mocktail", price: "₹140", img: "https://images.unsplash.com/photo-1536935338788-846bb9981813?q=85&w=400&h=300&fit=crop", emoji: "💙" },
-  { name: "Mango Shake", price: "₹150", img: "https://i.pinimg.com/736x/58/19/88/581988263f23d6e1ab4a0f4fe5e767f8.jpg", emoji: "🥭" },
+  { name: "Mango Shake", price: "₹150", img: "https://images.unsplash.com/photo-1523472721958-978143f4fa69?q=80&w=400&h=300&fit=crop", emoji: "🥭" },
   { name: "Oreo Shake", price: "₹160", img: "https://images.unsplash.com/photo-1579954115545-a95591f28bfc?q=85&w=400&h=300&fit=crop", emoji: "🍪" },
   { name: "Lemon Soda", price: "₹90", img: "https://images.unsplash.com/photo-1523362628745-0c100150b504?q=85&w=400&h=300&fit=crop", emoji: "🍋" },
-  { name: "Fresh Lime Water", price: "₹70", img: "https://images.unsplash.com/photo-1651993737201-6a93d0b5c6a4?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D", emoji: "🥤" },
+  { name: "Fresh Lime Water", price: "₹70", img: "https://images.unsplash.com/photo-1507316008803-0174092bbf50?q=80&w=400&h=300&fit=crop", emoji: "🥤" },
   { name: "Virgin Mojito", price: "₹150", img: "https://images.unsplash.com/photo-1551751299-1b51cab2694c?q=85&w=400&h=300&fit=crop", emoji: "🌿" },
   { name: "Masala Chai", price: "₹50", img: "https://images.unsplash.com/photo-1561336313-0bd5e0b27ec8?q=85&w=400&h=300&fit=crop", emoji: "🫖" },
 ];
