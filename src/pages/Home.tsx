@@ -38,7 +38,7 @@ const featuredDishes = [
     price: "₹249",
   },
   {
-    img: "https://images.unsplash.com/photo-1517701160467-bf8f864831d5?q=85&w=400&h=400&fit=crop",
+    img: "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     title: "Cold Coffee",
     tag: "Refreshing",
     emoji: "☕",
@@ -52,7 +52,7 @@ const featuredDishes = [
     price: "₹199",
   },
   {
-    img: "https://images.unsplash.com/photo-1473093226775-af9f3f500096?q=85&w=400&h=400&fit=crop",
+    img: "https://images.unsplash.com/photo-1645177628172-a94c1f96e6db?q=80&w=400&h=400&fit=crop",
     title: "White Sauce Pasta",
     tag: "Creamy",
     emoji: "🍝",
@@ -63,8 +63,8 @@ const featuredDishes = [
 const instaImages = [
   { src: "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=85&w=400&h=400&fit=crop", likes: "2,847" },
   { src: "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=85&w=400&h=400&fit=crop", likes: "1,934" },
-  { src: "https://images.unsplash.com/photo-1517701160467-bf8f864831d5?q=85&w=400&h=400&fit=crop", likes: "3,201" },
-  { src: "https://images.unsplash.com/photo-1473093226775-af9f3f500096?q=85&w=400&h=400&fit=crop", likes: "1,712" },
+  { src: "https://images.unsplash.com/photo-1567769541695-3598ee6ea57b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D", likes: "3,201" },
+  { src: "https://images.unsplash.com/photo-1617641540576-7802b374fe38?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE0fHx8ZW58MHx8fHx8", likes: "1,712" },
   { src: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=85&w=400&h=400&fit=crop", likes: "2,568" },
   { src: "https://images.unsplash.com/photo-1578985545062-69928b1d9587?q=85&w=400&h=400&fit=crop", likes: "1,889" },
 ];
